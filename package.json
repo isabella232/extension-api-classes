@@ -56,7 +56,7 @@
     "eslint": "^7.14.0",
     "husky": "^2.1.0",
     "mocha": "^6.1.4",
-    "nyc": "^14.1.0",
+    "nyc": "^14.1.1",
     "prettier": "^2.2.1",
     "semantic-release": "^15.13.3",
     "sourcegraph": "^24.7.0",
